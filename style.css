@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/body.jpg);
+    height: 100vh;
+  }
+  form #input {
+    width: 500px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid darkorange;
+    font-size: 30px;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+  }
+  
+  form button{
+  background-color: darkorange !important;
+  color: white !important;
+  }
+  
+  h2,
+  h5 {
+    text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.767);
+  color: darkorange;
+  }
+  
+  .card {
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 300px;
+    background-color:rgba(207, 217, 207, 0.454);
+    color: rgba(18, 18, 18, 0.976);
+  }
+  h3{
+      font-size: 35px;
+      margin: 1.7rem;
+  }
+  .temp{
+      font-size: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
